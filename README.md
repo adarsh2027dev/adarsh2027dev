@@ -47,6 +47,9 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=adarsh2027dev&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=adarsh2027dev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+## 🏆 GitHub Total Commit
+![](https://github-readme-stats.vercel.app/api?username=adarsh2027dev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&token=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)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=adarsh2027dev&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
