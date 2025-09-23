@@ -1,15 +1,16 @@
 <h1 align="center">✨ Hey there, I'm Adarsh Tiwari ✨</h1>
-<h3 align="center">🚀 Full Stack Developer | 📊 Devops | 💡 Innovator | Cofounder</h3>
+<h3 align="center">🚀 Full Stack Developer | 📊 DevOps | 💡 Innovator | Cofounder</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=B.Tech+in+Computer+Science+Engineering;Full+Stack+Developer;Always+Learning+New+Tech;Open+to+Collaboration+%26+Innovative+Projects" alt="Typing SVG" />
 </p>
+![](https://github-readme-stats.vercel.app/api?username=adarsh2027dev&count_private=true&show_icons=true&theme=radical&token=	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)
 
 ---
 
 ## 👨‍💻 About Me  
 - 🔭 Pursuing **BTech in Computer Science and Engineering**  
-- 🌱 Currently learning **Devops | AI/ML | DSA (C++) N8N |autmation**  
+- 🌱 Currently learning **DevOps | AI/ML | DSA (C++) | N8N | Automation**  
 - ⚡ Passionate about building **impactful & scalable solutions**  
 - 👯 Open to **collaboration & networking on LinkedIn & freelance full stack projects**  
 - 💬 Ask me about **Web Dev, DSA, or cool projects**  
@@ -22,10 +23,10 @@
 
 ## 🌐 Connect With Me  
 <p align="center">
-  <a href="https://instagram.com/irs"><img src="https://skillicons.dev/icons?i=instagram" height="40"/></a>
-  <a href="https://linkedin.com/in/adarshtiwari27"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
-  <a href="https://youtube.com/@@kode_mate"><img src="https://skillicons.dev/icons?i=youtube" height="40"/></a>
-  <a href="mailto:adarshtiwaridev01@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
+  <a href="https://instagram.com/irs"><img src="https://skillicons.dev/icons?i=instagram" height="40" style="margin:0 8px;"/></a>
+  <a href="https://linkedin.com/in/adarshtiwari27"><img src="https://skillicons.dev/icons?i=linkedin" height="40" style="margin:0 8px;"/></a>
+  <a href="https://youtube.com/@@kode_mate"><img src="https://skillicons.dev/icons?i=youtube" height="40" style="margin:0 8px;"/></a>
+  <a href="mailto:adarshtiwaridev01@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40" style="margin:0 8px;"/></a>
 </p>
 
 ---
