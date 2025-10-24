@@ -23,13 +23,12 @@
 
 ## 🌐 Connect With Me  
 <p align="center">
-  <a href="https://instagram.com/irs"><img src="https://skillicons.dev/icons?i=instagram" height="40" style="margin:0 8px;"/></a>
-  <a href="https://linkedin.com/in/adarshtiwari27"><img src="https://skillicons.dev/icons?i=linkedin" height="40" style="margin:0 8px;"/></a>
-  <a href="https://youtube.com/@@kode_mate"><img src="https://skillicons.dev/icons?i=youtube" height="40" style="margin:0 8px;"/></a>
+  <a href="https://www.instagram.com/its_adarsh_02794/"><img src="https://skillicons.dev/icons?i=instagram" height="40" style="margin:0 8px;"/></a>
+  <a href="https://www.linkedin.com/in/adarsh2027dev/"><img src="https://skillicons.dev/icons?i=linkedin" height="40" style="margin:0 8px;"/></a>
+  <a href="https://leetcode.com/u/Adarshdev01/"><img src="https://skillicons.dev/icons?i=leetcode" height="40" style="margin:0 8px;"/></a>
   <a href="mailto:adarshtiwaridev01@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40" style="margin:0 8px;"/></a>
 </p>
 
----
 
 ## 🛠 Tech Stack  
 <p align="center">
